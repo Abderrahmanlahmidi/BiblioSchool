@@ -1,0 +1,16 @@
+{
+  "name": "abderrahmanlahmidi/biblioschool",
+  "description": "Job listing application",
+  "authors": [
+      {
+          "name": "Abderrahman Lahmidi",
+          "email": "support@lahmidi.com"
+      }
+  ],
+  "autoload": {
+      "psr-4": {
+          "Models\\": "Models/",
+          "App\\": "App/"
+      }
+  }
+}
